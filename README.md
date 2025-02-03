@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Naman734
-- 👀 I’m interested in Programming, editing, and script writing
+- 👀 I’m interested in Web Dev, ethical hacking, UI/UX design.
 - 🌱 I’m currently learning language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email-gnaman734@gmail.com
+- 📫 How to reach me email- gnaman734@gmail.com
 - 
 
 <!---
